@@ -44,7 +44,6 @@ It combines seamless playback, rich metadata, and smart recommendations powered 
 - **Custom Metadata API**: Enhanced artist, album, and track information
 - **AI-Powered Trends**: Get intelligent music recommendations and playlists using real-time listening analytics
 - **Beautiful Interface**: Intuitive player, browsing, and search experiences
-- **Offline Support**: Download tracks and playlists for offline listening
 - **Cross-Platform Sync**: Keeps your play history and favorites synchronized with your Jellyfin server
 
 ---
