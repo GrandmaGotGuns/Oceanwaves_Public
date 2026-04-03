@@ -9,24 +9,25 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/a8a98637-f2e3-41a9-9268-95143e2b08a3" width="250"/>
+      <img width="1344" height="2992" alt="Screenshot_20260330_094940" src="https://github.com/user-attachments/assets/f0476d13-7d28-487c-8360-0b485ca614d6" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/8fd7746a-5b73-4d66-9b7c-2ec83d6abc0e" width="250"/>
+      <img width="1344" height="2992" alt="Screenshot_20260330_053446" src="https://github.com/user-attachments/assets/dfe18811-1e64-4e6d-b1d3-285e705cc1a6" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/bd70f6f6-0aa8-4b87-9e5e-b51a3f22f086" width="250"/>
+      <img width="1344" height="2992" alt="Screenshot_20260329_011837" src="https://github.com/user-attachments/assets/84dff5df-0da5-4188-8060-752f731410b5" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/be39a91b-26d3-4ec5-b8c6-54ff87e670a5" width="250"/>
+      <img width="1344"
+ height="2992" alt="Screenshot_20260329_011806" src="https://github.com/user-attachments/assets/1d0b0d5f-8acb-49ea-8025-9ece6f8822ad" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/d5998098-de15-4e57-8640-a18fc46e100e" width="250"/>
+      <img width="1344" height="2992" alt="Screenshot_20260329_011729" src="https://github.com/user-attachments/assets/a285efc8-9f0d-4fe6-8eed-caf99f564cff" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/191a5c58-cdf7-4478-a9c4-9280422466bb" width="250"/>
+      <img width="1344" height="2992" alt="Screenshot_20260329_011557" src="https://github.com/user-attachments/assets/0d980216-6dd8-4ad1-909d-798f2ad5c9cf" />
     </td>
   </tr>
 </table>
@@ -42,9 +43,10 @@ It combines seamless playback, rich metadata, and smart recommendations powered 
 
 - **Jellyfin Music Streaming**: Browse and play your full Jellyfin library on Android
 - **Custom Metadata API**: Enhanced artist, album, and track information
-- **AI-Powered Trends**: Get intelligent music recommendations and playlists using real-time listening analytics
+- **Trends**: Get intelligent music recommendations and playlists using real-time listening analytics
 - **Beautiful Interface**: Intuitive player, browsing, and search experiences
 - **Cross-Platform Sync**: Keeps your play history and favorites synchronized with your Jellyfin server
+- **LIVE SYNCED LYRICS**: Get Lyrics for any song online. Thanks to [Lib Lrc](https://github.com/tranxuanthang/lrclib).
 
 ---
 
